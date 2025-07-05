@@ -45,7 +45,8 @@ sorts by name, the image and text files are next to each other.
 
 ## macOS Project
 
-- Currently supported macOS: 14.7 Sonoma or 15 Sequoia
+- Tested on macOS: Sonoma (14.7) and Sequoia (15.5)
+- Xcode version: 16.4 (16F6) 
 - Uses: SwiftUI, SplitView, MapKit
 - Swift Language Version: Swift 6
 
